@@ -346,3 +346,21 @@ This is where we make it un-embarrassing and recruiter-proof.
 
 This is genuinely high value.
 
+
+
+
+
+# AWS Cloud Security Monitoring Platform (SIEM-lite)
+
+This project implements a production-style cloud security monitoring platform using AWS native logging, Athena threat hunting, OpenSearch SIEM-lite dashboards, automated alerting, and incident response workflows.
+
+Core components:
+- Security baseline hardening
+- Centralized logging architecture
+- Athena threat hunting queries
+- GuardDuty correlation
+- OpenSearch SIEM-lite dashboards
+- Automated response workflows
+- Infrastructure as Code (Terraform)
+
+Status: In progress.
